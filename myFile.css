@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: skyblue;
+}
+
+h1 {
+  font-size: 36px;
+  color: blue;
+  text-align: center;
+  margin-top: 50px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 50px;
+  text-align: justify;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+i {
+  color: paleturquoise;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+form {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 50px;
+  background-color: lightblue;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+label, input[type="submit"] {
+  font-size: 18px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+  padding: 8px;
+  width: 100%;
+  border: 1px solid #333;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
